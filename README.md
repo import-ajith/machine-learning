@@ -4,8 +4,7 @@ Machine learning algorithms processing with titanic dataset from Kaggle. Logisti
 ## Author 
    Ajithlal K
 
-## Thanks
-   Derek Jedamski
+
     
   
    
